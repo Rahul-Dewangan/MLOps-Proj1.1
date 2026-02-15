@@ -1,12 +1,3 @@
-Love this goal 🔥
-A clean, professional README can seriously impress recruiters because it shows **engineering maturity**, not just model accuracy.
-
-Below is a recruiter-friendly version of your project story — highlighting architecture, cloud, DevOps, reproducibility, and scalability.
-
-You can copy this into `README.md`.
-
----
-
 # 🚗 Vehicle Insurance MLOps Project
 
 End-to-end **production-ready Machine Learning system** that covers data ingestion → validation → transformation → model training → evaluation → deployment → CI/CD → cloud hosting.
